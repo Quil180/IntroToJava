@@ -1,0 +1,50 @@
+  - 9 questions total, 48 points total, 50 with extra credit. (9 minutes per question, you'll be good)
+  - dont worry about the nitty gritty (as long as it looks good enough logic wise, your good)
+    - Ex: you spell print wrong or you miss a semicolon after return.
+    - DONT mix up variables tho, and keep variable names unique
+      - and keep tabs consistent so, incase you miss a curly brace, you have some leeway.
+  - you will not need to use the println function at alllllllll (for your ease of writing, truly another Dencker W)
+
+The following are code tracing::
+  question 1 (8 points, 4 calls, 2 points each):
+    - given the following the method, what does the call return?? (aka tracing)
+
+  question 2 (6 points, 3 parts, 2 points each):
+    - the same as the 1st question, but 2 functions with the same name (but the parameters will be different, aka a different method technically)
+    - you may need to call one function to another.
+
+  question 3 (3 points):
+    - given the following method, what are the values of the array that is returned.
+      - something will be done.
+      - to return the array aka, do [#, #, #, #, #, #, #] (make it clear on paper)
+
+Writing Code:
+  question 4 (3 points):
+    - Know the String Functions.
+    - write a line of code that takes in a string and does stuff to it.
+      - like how to compare, lowercase and uppercase strings.
+
+  question 5 (3 points):
+    - Random integers/numbers
+      - know modulus (%), how to add values of an array, how to selectively add stuff.
+
+  question 6 (3 points):
+    - Substring. (take a portion of the string out)
+      - stringname.substring(start, end); 
+      - Substring notes in the test1.java file
+
+  question 7 (5 points):
+    - write a method that takes in something and does stuff then returns a value.
+
+
+Same question asking for 2 related things (collectively 17 points)
+  question 8 (7 points):
+    - draw a UML diagram of the class with its description
+
+  question 9 (10 points):
+    - write a class named something, aka, write what you drew in the diagram.
+
+Question 10 (extra credit, 2 points):
+  - same question on all exams
+    - What is something academic or non academic you've learned in this class and why?
+

@@ -86,7 +86,7 @@ public class Bank {
               System.out.println("Account was closed.");
               break;
             default:
-            System.out.println("Please Select a valid option");
+              System.out.println("Please Select a valid option");
               break;
           }
         }
