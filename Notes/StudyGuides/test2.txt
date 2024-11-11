@@ -1,0 +1,26 @@
+There are 6 questions on the exam, as well as the same extra credit as last time o7.
+
+Question 1 (8 points, 4 for the outp, 4 for the drawing):
+  - Code Tracing, Stacks.
+  - Asks for the output, as well as what the stack looks like at the end (draw vertically).
+
+Question 2 (8 points, 4 for output, 4 for the drawing):
+  - Queues, First in, First out. Draw horizontally.
+  - Asks for the output, as well as what the queue looks like at the end.
+
+The following 3 questions use the same prompt, inheritance related:
+Question 3 (10 points):
+  - UML Chart.
+
+Question 4 (8 points):
+  - Write a Class.
+  - probably a child class.
+
+Question 5 (12 points):
+  - Write another Class.
+
+
+Question 6 (i forgot to get the points for it):
+  - Draw the data structure at a certain point (tracing basically).
+  - Deals Priority Queues and comparable/compare to, and how to make something come first.
+
