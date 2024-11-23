@@ -1,0 +1,47 @@
+Exam 3 ():
+
+Question 1 (3 Points):
+  - Write an interface based on the following UML chart.
+    - eg: Public void changeStr(String string);
+  
+
+Question 2 (5 Points):
+  - Write a class called __, with the following variables and such...
+  - This class uses the interface from before.
+  - 
+
+Question 3 (8 Points):
+  - Write a class with the following interface
+
+Question 4/5/6/7 (24 Points total):
+  - Given the UML above, write 4 classes (rip).
+  - You must only have the instance variables and methods defined in the chart.
+  - Abstract class fully defined in the verbage.
+
+Question 8/9/10 (26 Points total):
+  - Given the following code, answer the following stuff.
+  - Polymorphism question.
+  - Is the constructor valid??? If not, why.
+
+Question something (idk anymore Points):
+  - Code tracing of a given code segment.
+
+
+points for every question:
+1  3
+2  5
+3  8
+4  8
+5  6 
+6  6
+7  6
+8  2 
+9  2
+10 2
+11 2
+12 2
+13 4 
+14 4
+15 4
+16 4
+2 point bonus
